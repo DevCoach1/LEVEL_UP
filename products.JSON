@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Nike",
+        "image": "assets/product_1.jpg", 
+        "description": "Sneaker",
+        "price": 100
+    },
+    {
+        "id": 2,
+        "name": "Towel",
+        "image": "assets/product_2.jpg", 
+        "description": "Cover Cloth",
+        "price": 120
+    },
+    {
+        "id": 3,
+        "name": "Air Max",
+        "image": "assets/product_3.jpg", 
+        "description": "Sneaker",
+        "price": 80
+    },
+    {
+        "id": 4,
+        "name": "Face Wipe",
+        "image": "assets/product_7.jpg", 
+        "description": "Handkerchief",
+        "price": 110
+    },
+    {
+        "id": 5,
+        "name": "Nike",
+        "image": "assets/product_5.jpg", 
+        "description": "Sneaker",
+        "price": 150
+    },
+    {
+        "id": 6,
+        "name": "Blanket",
+        "image": "assets/product_6.jpg", 
+        "description": "Cover cloth",
+        "price": 70
+    }
+]

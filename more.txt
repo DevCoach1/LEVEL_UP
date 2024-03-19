@@ -1,0 +1,17 @@
+Git Hub commands
+
+Git init
+git config --global user.name ""
+git config --global user.email ""
+git add .
+git commit -m ""
+git remote add origin <repository url>
+git push -u origin master
+
+
+
+HOW REMOVE A CODE FROM ONE BRANCH TO ANOTHER
+
+git checkout master
+git pull origin master
+git checkout -b main
